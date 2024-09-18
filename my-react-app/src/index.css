@@ -30,3 +30,12 @@
   color:hsl(0,0%, 30%);
 
 }
+.students{
+  color: rgb(41, 17, 196);
+  font-size:1.5em;
+  border: 1px solid black;
+  width: 30%;
+  margin-left:10px;
+  margin-top:5px;
+  
+}
