@@ -37,5 +37,10 @@
   width: 30%;
   margin-left:10px;
   margin-top:5px;
-  
+}
+.guest{
+  background-color: tomato;
+}
+.welcome-message{
+  background-color: rgb(35, 199, 87);
 }
